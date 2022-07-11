@@ -5,7 +5,7 @@
 
 ## Tecnologias que uso no dia-a-dia:
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <h4>Back-end:</h4>
     <img style="align:center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img style="align:center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -22,4 +22,9 @@
     <img style="align:center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <h4>Nuvens:</h4>
     <img style="align:center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</div>
+
+## Tecnologias que estudo no momento:
+<div style="display: inline_block">
+    <img style="align:center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
