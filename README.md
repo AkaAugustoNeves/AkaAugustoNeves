@@ -1,4 +1,4 @@
-### Olá! Eu sou o Augusto Neves! 👋🏿
+### Salve! Eu sou o Augusto Neves! 👋🏿
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto05neves)<br/><br/>
 ![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=AkaAugustoNeves&show_icons=true&theme=dracula)
