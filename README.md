@@ -26,7 +26,7 @@
     <img style="align:center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
-## Tecnologias que estudo no momento:
+## Technology I'm studying:
 <div style="display: inline_block">
     <img style="align:center" alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
